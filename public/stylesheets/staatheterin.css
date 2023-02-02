@@ -1,0 +1,106 @@
+body {
+    text-align: center;
+    overflow-x: hidden;
+}
+#first-container {
+    width: 100%;
+    height: 35vh;
+    position: relative;
+    background-image: url(../images/top2000-online-cafe.jpg);
+}
+
+#first-container-logo {
+    width: 350px;
+    height: auto;
+    display: block;
+    margin: auto;
+    padding-top: 5%;
+}
+
+#second-container {
+    position: relative;
+    width: 100%;
+    height: auto;
+    min-height: 65vh;
+    background: rgb(19, 19, 23);
+}
+
+.form-input {
+    width: 350px;
+    color: white;
+}
+
+input {
+    outline: 0;
+    border-width: 0 0 2px;
+    background-color: rgb(19, 19, 23);
+    border-color: white
+}
+::placeholder {
+    text-align: center; 
+    color: white;
+    font-weight: 600;
+ }
+ 
+input:focus {
+    border-color: white
+}
+form {
+    display: inline-block;
+    margin-top: 5%;
+}
+
+.btn-submit{
+    width: 350px;
+    background-color: rgb(217, 21, 27);
+    color: rgb(255, 255, 255);
+}
+.btn-verasme{
+    width: 350px;
+    background-color: rgb(255, 255, 255);
+}
+.btn-verasme::placeholder{
+    color: black;
+}
+#share-socials{
+    text-align: center;
+    position: relative;
+    color: white;
+    font-weight: 600;
+}
+#content{
+    color: white;
+}
+#content_2{
+    color: white;
+}
+.staatheterinresultaat{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    background-color: black;
+    z-index: 1;
+}
+
+.h1-echo{
+    position: absolute;
+    top: 50vh;
+    width: 100%;
+    color: white;
+    font-size: 5vw;
+}
+.btn-gaterug{
+    position: absolute;
+    top: 70vh;
+    width: 10vw;
+    left: 45vw;
+}
+#suprise-container{
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: black;
+    width: 100vw;
+    height: 100vh;
+    display: none;
+}

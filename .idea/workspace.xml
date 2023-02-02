@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7753d822-d9af-4950-8c43-fa114f755a3b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/private/managers/SchemaManager.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/schema.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/private/data/qrcode.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/private/data/qrcode.jpg" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 8.1.0">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/chillerlan/php-settings-container" />
+      <path value="$PROJECT_DIR$/vendor/chillerlan/php-qrcode" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="2Hwppz44abYriJW4bmju90EGVXd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/apens/Documents/GitHub/top-2000-stem-tool/private/managers",
+    "list.type.of.created.stylesheet": "CSS",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\apens\Documents\GitHub\top-2000-stem-tool\private\managers" />
+      <recent name="C:\Users\apens\Documents\GitHub\top-2000-stem-tool\public" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\apens\Documents\GitHub\top-2000-stem-tool" />
+      <recent name="C:\Users\apens\Documents\GitHub\top-2000-stem-tool\private\managers" />
+      <recent name="C:\Users\apens\Documents\GitHub\top-2000-stem-tool\private" />
+      <recent name="C:\Users\apens\Documents\GitHub\top-2000-stem-tool\python" />
+      <recent name="C:\Users\apens\Documents\GitHub\top-2000-stem-tool\public" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Server" type="PhpBuiltInWebServerConfigurationType" factoryName="PHP Built-in Web Server" document_root="$PROJECT_DIR$/public" port="8080">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7753d822-d9af-4950-8c43-fa114f755a3b" name="Changes" comment="" />
+      <created>1669206186204</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1669206186204</updated>
+      <workItem from="1669206188271" duration="2248000" />
+      <workItem from="1669275339975" duration="68000" />
+      <workItem from="1669275730615" duration="4802000" />
+      <workItem from="1669283846716" duration="1083000" />
+      <workItem from="1669362016152" duration="776000" />
+      <workItem from="1669362794375" duration="493000" />
+      <workItem from="1669367186599" duration="990000" />
+      <workItem from="1669369025517" duration="888000" />
+      <workItem from="1669378327964" duration="2949000" />
+      <workItem from="1669708717752" duration="2889000" />
+      <workItem from="1669793191396" duration="3199000" />
+      <workItem from="1669796484477" duration="361000" />
+      <workItem from="1669882422707" duration="2318000" />
+      <workItem from="1669968384310" duration="14314000" />
+      <workItem from="1670329888334" duration="2606000" />
+      <workItem from="1670398965917" duration="3067000" />
+      <workItem from="1673517324904" duration="2589000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
